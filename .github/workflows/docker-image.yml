@@ -30,7 +30,7 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push nimohe/docker-graphql:0.0.2 .
+        docker push nimohe/docker-graphql:0.0.2
         
 
   
